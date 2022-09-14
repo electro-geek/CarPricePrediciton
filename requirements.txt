@@ -1,0 +1,8 @@
+Flask
+pandas
+pickle
+seaborn
+numpy
+matplotlib
+sklearn
+jsonify
